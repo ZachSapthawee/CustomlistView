@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomlistView</string>
+
+    <string-array name="student_name">
+        <item>ZACKSAPTHAWEE</item>
+        <item>Photoshop</item>
+        <item>illastrator</item>
+        <item>After Effect</item>
+    </string-array>
+</resources>
